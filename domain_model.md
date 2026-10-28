@@ -13,4 +13,5 @@ classDiagram
         +getMediaCatalog() List
     }
 
-    Title -- Genre : categorized_under
+    Title -- Genre : categorized_under     
+    #1
